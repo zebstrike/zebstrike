@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Anunay Adduri  
 
-**AI & Backend Explorer 🚀 | Aspiring SDE-1 | Turning Ideas into Scalable Solutions**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+%26+Backend+Explorer+🚀;Aspiring+SDE-1;Turning+Ideas+into+Scalable+Solutions;Passionate+Learner+%26+Problem+Solver" alt="Typing Animation" />
+</p>
 
 ---
 
